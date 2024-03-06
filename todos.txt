@@ -1,6 +1,6 @@
 Fist commit to Git
 Push to GitHub
-newTest2
-New Test 
 Master Python 
-New Test 2
+Finish today's lecture 
+Bug fixing
+
